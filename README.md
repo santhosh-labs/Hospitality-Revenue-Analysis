@@ -40,8 +40,7 @@ The dashboard enables data-driven decision-making by visualizing **key metrics**
 
 ---
 
-## 📷 Dashboard Preview
-> *(Attach screenshots or GIFs of your Power BI dashboard here for better visualization)*
+
 
 ---
 
